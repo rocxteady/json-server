@@ -1,5 +1,7 @@
 {
   "User": {
-    "key": "value"
+    "key": {
+      "string": {}
+    }
   }
 }
